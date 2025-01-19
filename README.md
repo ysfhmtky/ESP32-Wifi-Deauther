@@ -117,4 +117,8 @@ Feel free to contribute. Don't hestitate to refactor current code base. Please s
 This project demonstrates vulnerabilities of Wi-Fi networks and its underlaying 802.11 standard and how ESP32 platform can be utilised to attack on those vulnerable spots. Use responsibly against networks you have permission to attack on.
 
 ## License
+<<<<<<< HEAD
 Even though this project is licensed under MIT license (see [LICENSE](LICENSE) file for details), don't be shy or greedy and share your work.
+=======
+Even though this project is licensed under MIT license (see [LICENSE](LICENSE) file for details), don't be shy or greedy and share your work.
+>>>>>>> 683ba3827a4d15b6158ac00e25924bb9120d6f7e
